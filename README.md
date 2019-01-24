@@ -1,12 +1,12 @@
-Quick script to warm back up to programming. Feel free to take + edit + criticize what you see here.
+## Quick script to warm back up to programming. Feel free to take + edit + criticize what you see here.
 
 
-<strong>Usage:</strong>
+**Usage:**
 
 Have csv file with  
-	X values in column A  
-	Y values in column B  
-	Z values in column C  
+	* X values in column A  
+	* Y values in column B  
+	* Z values in column C  
 Can't have column headers or footers, data must begin in row 1 and be delimited by commas  
 Save file in same directory as this script (.exe file)  
 Run .exe file  
